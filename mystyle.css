@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Playfair Display", serif;
+}
+.logoimg {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
+.navbar-collapse ul li a {
+  color: #77037b;
+
+  font-weight: 500;
+  font-size: 20px;
+}
+.carousel-item img {
+  height: 80vh;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.shopnow {
+  top: 80%;
+  position: absolute;
+  background-color: #dae0fc;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.shopbycard {
+  top: 100%;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  left: 50%;
+  width: 100%;
+  text-align: center;
+  height: 20%;
+  transform: translate(-50%, -50%);
+}
+
+.card {
+  height: 100%;
+}
+.mb-3 {
+  text-align: center;
+}
+.social {
+  background-color: #77037b;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+.social img {
+  padding: 2px;
+}
+.text-uppercase {
+  color: #77037b;
+  padding-top: 10px;
+}
+a:link {
+  text-decoration: none;
+}
+p {
+  line-height: 0.8;
+}
+
+.buynowcrd,
+.recom {
+  background-color: #dae0fc;
+}
+
+#HeroImaage {
+  height: 80vh;
+}
+
+.bgcolor {
+  background-color: #dae0fc;
+}
+.btncolor {
+  background-color: #debff6;
+}
